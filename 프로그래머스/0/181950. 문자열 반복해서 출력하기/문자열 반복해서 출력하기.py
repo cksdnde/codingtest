@@ -1,0 +1,1 @@
+print((lambda s, n: s * int(n))(*input().split()))
